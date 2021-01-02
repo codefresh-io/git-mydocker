@@ -1,7 +1,7 @@
 {
-  "name": "dockettest",
+  "name": "dockertest",
   "version": "1.0.0",
-  "description": "",
+  "description": "firstDockerProject",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
